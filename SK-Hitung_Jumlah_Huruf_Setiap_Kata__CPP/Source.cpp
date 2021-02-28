@@ -17,7 +17,7 @@ void cetakHuruf();
 
 int main()
 {
-	//reading string
+	//membaca string
 	cout << "Masukkan kalimat apapun : ";
 	fgets(obj.text, 100, stdin);
 	cetakHuruf();
